@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+/* 
+useEffect(() => {
+  let intervalId;
+  console.log(isUpdating)
+
+  if (isUpdating) {
+    intervalId = setInterval( () => {
+      progress == 12 ? clearInterval(intervalId) : setProgress(progress + 1);
+      console.log(progress)
+    }, 1000)
+  }
+  return () => {console.log('cleared interval')}
+}, [progress]); */
