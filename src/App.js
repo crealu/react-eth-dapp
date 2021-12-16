@@ -3,6 +3,7 @@ import * as React from 'react';
 import Web3 from 'web3';
 import LatestBlockView from './components/LatestBlockView';
 import TransactionsView from './components/TransactionsView';
+import apiKey from './components/APIKey';
 import { useState, useEffect } from 'react';
 
 const mainStyle = {
@@ -10,7 +11,6 @@ const mainStyle = {
   height: '100vh',
 };
 
-const apiKey = 'your key';
 const web3 = new Web3(new Web3.providers.WebsocketProvider('wss://mainnet.infura.io/ws/v3/' + apiKey))
 
 function Header({ isUpdating, progress }) {
