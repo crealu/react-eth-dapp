@@ -20,4 +20,5 @@ There is a button that allows you to obtain and display all the transactions on 
 
 ## Required Changes
 
-In App.js, the apiKey constant is set to a string, 'your key'. Replace 'your key' with the public API key provided by Infura.
+In App.js, the apiKey constant is set to a string, 'your key'. Replace 'your key' with the public API key provided by Infura (https://infura.io/).
+
