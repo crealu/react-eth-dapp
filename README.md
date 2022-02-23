@@ -3,14 +3,11 @@
 This project is a full stack dapp created using React, Ethereum, Web3, and MaterialUI.
 
 &nbsp;
-## Available Scripts
-
-### `yarn start`
-
-The app runs in development mode on localhost:3000
-
-&nbsp;
 ## Usage
+
+Navigate to this directory and run `yarn start` in the terminal.
+
+Open your browser and go to url localhost:3000.
 
 This app can be used to retrieve the latest Ethereum block and its data:
 - block number
