@@ -1,4 +1,4 @@
-# A React Ethereum Web3 MaterialUI App
+# A React Ethereum App
 
 This project is a full stack dapp created using React, Ethereum, Web3, and MaterialUI.
 
